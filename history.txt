@@ -1,5 +1,9 @@
 Esta es la historia de Felipe Velasco
 
-Freddy Vega tiene 26 años y nació en Colombia
+Freddy Vega tiene 26 años y nació en Colombia. Mucha atencion
 
-Mañana nos enfocaremos en su vida laboral. Mucha atencion:
+<<<<<<< HEAD
+Mañana nos enfocaremos en su vida laboral
+
+Añadido para merge. Esto va en rama cabecera
+>>>>>>> cabecera
